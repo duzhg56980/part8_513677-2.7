@@ -1,0 +1,7 @@
+import org.apache.commons.configuration2.builder.BuilderConfigurationWrapperFactory.BuilderConfigurationWrapperInvocationHandler;
+public class FunctionUse2540 {
+public void funcUse() {
+BuilderConfigurationWrapperInvocationHandler builderconfigurationwrapperinvocationhandler = new BuilderConfigurationWrapperInvocationHandler();
+builderconfigurationwrapperinvocationhandler.handleEventSourceInvocation(null,null);
+}
+}
